@@ -1,0 +1,15 @@
+{
+  "name": "ionicKandoe",
+  "app_id": "fc0464ff",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  },
+  "proxies": [
+    {
+      "path":"/api",
+      "proxyUrl":"http://127.0.0.1:8100/api"
+    }
+  ]
+
+}
